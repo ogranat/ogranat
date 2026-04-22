@@ -1,4 +1,15 @@
-## Hi there 👋
+## Olga Granat
+
+### Instructional Technology Coordinator
+
+
+![lego girl at computer](assets/ogimage.png)
+
+
+I'm currently learning GitHub! 
+
+### It's always fun to learn something new. 
+
 
 <!--
 **ogranat/ogranat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
